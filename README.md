@@ -1,0 +1,3 @@
+The Audio Book Customer Conversion project aimed to analyze customer behavior and predict conversion rates for audio book purchases. The project spanned over 2.5 years, during which data on customer interactions, purchases, and engagement with audio book content were gathered and analyzed.
+
+Using TensorFlow, a powerful machine learning framework, the project team developed predictive models to understand customer conversion patterns. TensorFlow's flexibility and scalability allowed for the creation of sophisticated neural network architectures capable of handling the complexities of the data and predicting future customer behavior accurately.
